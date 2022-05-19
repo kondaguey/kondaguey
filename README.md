@@ -1,4 +1,6 @@
-### Hi there 👋
+![LinkedIn](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+
 
 <!--
 **kondaguey/kondaguey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kondaguey&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
